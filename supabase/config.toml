@@ -1,0 +1,20 @@
+[functions.delete-account]
+verify_jwt = true
+
+[functions.glowup-map]
+verify_jwt = true
+
+[functions.google-oauth]
+verify_jwt = false
+
+[functions.gpt5-analysis]
+verify_jwt = true
+
+[functions.gptmini-chat]
+verify_jwt = true
+
+[functions.revenuecat-webhook]
+verify_jwt = false
+
+[functions.User-location]
+verify_jwt = true

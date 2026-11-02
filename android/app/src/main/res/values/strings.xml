@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NextFace</string>
+    <string name="title_activity_main">NextFace</string>
+    <string name="package_name">com.nextface.app</string>
+    <string name="custom_url_scheme">com.nextface.app</string>
+</resources>

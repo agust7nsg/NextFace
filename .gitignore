@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+.bolt/
+*.timestamp-*.mjs
+android/.gradle/
+android/local.properties
+android/app/build/
+android/app/src/main/assets/public/
+*.jks
+*.keystore
